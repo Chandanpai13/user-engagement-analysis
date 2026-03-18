@@ -7,7 +7,10 @@
 
 ## 🔍 Project Overview
 
+> **Dataset credit:** L. Gupta, Google Play Store Apps, Kaggle, Feb 2019.
+
 This project applies a full data science pipeline to the **Google Play Store Apps dataset**
+
 to answer one key question:
 
 > **What drives user engagement — and which app strategy performs best?**
@@ -30,7 +33,11 @@ The analysis covers:
 | Columns | 13 |
 | Key fields | Rating, Reviews, Installs, Size, Type, Price, Category |
 
-**Source:** [Kaggle — Google Play Store Apps](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
+**Source:** [Kaggle — Google Play Store Apps](https://www.kaggle.com/lava18/google-play-store-apps)
+
+**Citation:**
+L. Gupta, "Google Play Store Apps," Feb 2019. [Online].
+Available: https://www.kaggle.com/lava18/google-play-store-apps
 
 ---
 
