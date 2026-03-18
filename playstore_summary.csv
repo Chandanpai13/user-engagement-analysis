@@ -1,0 +1,16 @@
+Metric,Value
+Total Apps,8196
+Avg Rating,4.17
+Avg Reviews,255251.0
+Avg Installs,9165090.0
+Avg Engagement Score,0.5442
+Avg Drop-off Rate,0.4558
+Avg Survey Score,4.32
+High Engagement Apps,4098
+Low Engagement Apps,4098
+A/B Lift (Free vs Paid %),29.82
+A/B Lift – High Segment %,12.51
+A/B Lift – Low Segment %,6.15
+A/B p-value,0.0
+Regression R²,0.9845
+Top Engagement Driver,Reviews (log)
