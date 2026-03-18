@@ -172,5 +172,5 @@ user-engagement-analysis/
 
 ## 👤 Author
 
-**Your Name**
-[LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername)
+**Chandan Umesh Pai**
+[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/chandan-umesh-pai/)) • [GitHub](https://github.com/Chandanpai13)
